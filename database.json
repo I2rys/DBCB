@@ -1,0 +1,14 @@
+[
+    {
+        "requests": ["hello", "hi"],
+        "responses": ["hello", "hi"]
+    },
+    {
+        "requests": ["how are you?", "are you good?"],
+        "responses": ["I'm good.", "I'm good. You?"]
+    },
+    {
+        "requests": ["I'm good", "I'm good too"],
+        "responses": ["Good!"]
+    }
+]
